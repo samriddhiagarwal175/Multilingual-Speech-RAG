@@ -1,0 +1,242 @@
+Chunk Information:
+--------------------------------------------------
+Chunk 000:
+  Start Time: 0.00 seconds
+  End Time: 10.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_000.mp3
+--------------------------------------------------
+Chunk 001:
+  Start Time: 10.00 seconds
+  End Time: 20.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_001.mp3
+--------------------------------------------------
+Chunk 002:
+  Start Time: 20.00 seconds
+  End Time: 30.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_002.mp3
+--------------------------------------------------
+Chunk 003:
+  Start Time: 30.00 seconds
+  End Time: 40.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_003.mp3
+--------------------------------------------------
+Chunk 004:
+  Start Time: 40.00 seconds
+  End Time: 50.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_004.mp3
+--------------------------------------------------
+Chunk 005:
+  Start Time: 50.00 seconds
+  End Time: 60.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_005.mp3
+--------------------------------------------------
+Chunk 006:
+  Start Time: 60.00 seconds
+  End Time: 70.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_006.mp3
+--------------------------------------------------
+Chunk 007:
+  Start Time: 70.00 seconds
+  End Time: 80.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_007.mp3
+--------------------------------------------------
+Chunk 008:
+  Start Time: 80.00 seconds
+  End Time: 90.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_008.mp3
+--------------------------------------------------
+Chunk 009:
+  Start Time: 90.00 seconds
+  End Time: 100.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_009.mp3
+--------------------------------------------------
+Chunk 010:
+  Start Time: 100.00 seconds
+  End Time: 110.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_010.mp3
+--------------------------------------------------
+Chunk 011:
+  Start Time: 110.00 seconds
+  End Time: 120.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_011.mp3
+--------------------------------------------------
+Chunk 012:
+  Start Time: 120.00 seconds
+  End Time: 130.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_012.mp3
+--------------------------------------------------
+Chunk 013:
+  Start Time: 130.00 seconds
+  End Time: 140.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_013.mp3
+--------------------------------------------------
+Chunk 014:
+  Start Time: 140.00 seconds
+  End Time: 150.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_014.mp3
+--------------------------------------------------
+Chunk 015:
+  Start Time: 150.00 seconds
+  End Time: 160.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_015.mp3
+--------------------------------------------------
+Chunk 016:
+  Start Time: 160.00 seconds
+  End Time: 170.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_016.mp3
+--------------------------------------------------
+Chunk 017:
+  Start Time: 170.00 seconds
+  End Time: 180.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_017.mp3
+--------------------------------------------------
+Chunk 018:
+  Start Time: 180.00 seconds
+  End Time: 190.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_018.mp3
+--------------------------------------------------
+Chunk 019:
+  Start Time: 190.00 seconds
+  End Time: 200.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_019.mp3
+--------------------------------------------------
+Chunk 020:
+  Start Time: 200.00 seconds
+  End Time: 210.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_020.mp3
+--------------------------------------------------
+Chunk 021:
+  Start Time: 210.00 seconds
+  End Time: 220.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_021.mp3
+--------------------------------------------------
+Chunk 022:
+  Start Time: 220.00 seconds
+  End Time: 230.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_022.mp3
+--------------------------------------------------
+Chunk 023:
+  Start Time: 230.00 seconds
+  End Time: 240.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_023.mp3
+--------------------------------------------------
+Chunk 024:
+  Start Time: 240.00 seconds
+  End Time: 250.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_024.mp3
+--------------------------------------------------
+Chunk 025:
+  Start Time: 250.00 seconds
+  End Time: 260.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_025.mp3
+--------------------------------------------------
+Chunk 026:
+  Start Time: 260.00 seconds
+  End Time: 270.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_026.mp3
+--------------------------------------------------
+Chunk 027:
+  Start Time: 270.00 seconds
+  End Time: 280.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_027.mp3
+--------------------------------------------------
+Chunk 028:
+  Start Time: 280.00 seconds
+  End Time: 290.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_028.mp3
+--------------------------------------------------
+Chunk 029:
+  Start Time: 290.00 seconds
+  End Time: 300.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_029.mp3
+--------------------------------------------------
+Chunk 030:
+  Start Time: 300.00 seconds
+  End Time: 310.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_030.mp3
+--------------------------------------------------
+Chunk 031:
+  Start Time: 310.00 seconds
+  End Time: 320.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_031.mp3
+--------------------------------------------------
+Chunk 032:
+  Start Time: 320.00 seconds
+  End Time: 330.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_032.mp3
+--------------------------------------------------
+Chunk 033:
+  Start Time: 330.00 seconds
+  End Time: 340.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_033.mp3
+--------------------------------------------------
+Chunk 034:
+  Start Time: 340.00 seconds
+  End Time: 350.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_034.mp3
+--------------------------------------------------
+Chunk 035:
+  Start Time: 350.00 seconds
+  End Time: 360.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_035.mp3
+--------------------------------------------------
+Chunk 036:
+  Start Time: 360.00 seconds
+  End Time: 370.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_036.mp3
+--------------------------------------------------
+Chunk 037:
+  Start Time: 370.00 seconds
+  End Time: 380.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_037.mp3
+--------------------------------------------------
+Chunk 038:
+  Start Time: 380.00 seconds
+  End Time: 390.00 seconds
+  Duration: 10.00 seconds
+  File: chunk_038.mp3
+--------------------------------------------------
+Chunk 039:
+  Start Time: 390.00 seconds
+  End Time: 396.13 seconds
+  Duration: 6.13 seconds
+  File: chunk_039.mp3
+--------------------------------------------------

@@ -1,0 +1,459 @@
+{
+  "chunks": [
+    {
+      "chunk_number": 0,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_000.flac",
+      "start_time": 0,
+      "end_time": 15,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 1,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_001.flac",
+      "start_time": 15,
+      "end_time": 30,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 2,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_002.flac",
+      "start_time": 30,
+      "end_time": 45,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 3,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_003.flac",
+      "start_time": 45,
+      "end_time": 60,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 4,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_004.flac",
+      "start_time": 60,
+      "end_time": 75,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 5,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_005.flac",
+      "start_time": 75,
+      "end_time": 90,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 6,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_006.flac",
+      "start_time": 90,
+      "end_time": 105,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 7,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_007.flac",
+      "start_time": 105,
+      "end_time": 120,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 8,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_008.flac",
+      "start_time": 120,
+      "end_time": 135,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 9,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_009.flac",
+      "start_time": 135,
+      "end_time": 150,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 10,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_010.flac",
+      "start_time": 150,
+      "end_time": 165,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 11,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_011.flac",
+      "start_time": 165,
+      "end_time": 180,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 12,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_012.flac",
+      "start_time": 180,
+      "end_time": 195,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 13,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_013.flac",
+      "start_time": 195,
+      "end_time": 210,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 14,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_014.flac",
+      "start_time": 210,
+      "end_time": 225,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 15,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_015.flac",
+      "start_time": 225,
+      "end_time": 240,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 16,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_016.flac",
+      "start_time": 240,
+      "end_time": 255,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 17,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_017.flac",
+      "start_time": 255,
+      "end_time": 270,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 18,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_018.flac",
+      "start_time": 270,
+      "end_time": 285,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 19,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_019.flac",
+      "start_time": 285,
+      "end_time": 300,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 20,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_020.flac",
+      "start_time": 300,
+      "end_time": 315,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 21,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_021.flac",
+      "start_time": 315,
+      "end_time": 330,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 22,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_022.flac",
+      "start_time": 330,
+      "end_time": 345,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 23,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_023.flac",
+      "start_time": 345,
+      "end_time": 360,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 24,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_024.flac",
+      "start_time": 360,
+      "end_time": 375,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 25,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_025.flac",
+      "start_time": 375,
+      "end_time": 390,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 26,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_026.flac",
+      "start_time": 390,
+      "end_time": 405,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 27,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_027.flac",
+      "start_time": 405,
+      "end_time": 420,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 28,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_028.flac",
+      "start_time": 420,
+      "end_time": 435,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 29,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_029.flac",
+      "start_time": 435,
+      "end_time": 450,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 30,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_030.flac",
+      "start_time": 450,
+      "end_time": 465,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 31,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_031.flac",
+      "start_time": 465,
+      "end_time": 480,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 32,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_032.flac",
+      "start_time": 480,
+      "end_time": 495,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 33,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_033.flac",
+      "start_time": 495,
+      "end_time": 510,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 34,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_034.flac",
+      "start_time": 510,
+      "end_time": 525,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 35,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_035.flac",
+      "start_time": 525,
+      "end_time": 540,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 36,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_036.flac",
+      "start_time": 540,
+      "end_time": 555,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 37,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_037.flac",
+      "start_time": 555,
+      "end_time": 570,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 38,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_038.flac",
+      "start_time": 570,
+      "end_time": 585,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 39,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_039.flac",
+      "start_time": 585,
+      "end_time": 600,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 40,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_040.flac",
+      "start_time": 600,
+      "end_time": 615,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 41,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_041.flac",
+      "start_time": 615,
+      "end_time": 630,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 42,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_042.flac",
+      "start_time": 630,
+      "end_time": 645,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 43,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_043.flac",
+      "start_time": 645,
+      "end_time": 660,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 44,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_044.flac",
+      "start_time": 660,
+      "end_time": 675,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 45,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_045.flac",
+      "start_time": 675,
+      "end_time": 690,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 46,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_046.flac",
+      "start_time": 690,
+      "end_time": 705,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 47,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_047.flac",
+      "start_time": 705,
+      "end_time": 720,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 48,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_048.flac",
+      "start_time": 720,
+      "end_time": 735,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 49,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_049.flac",
+      "start_time": 735,
+      "end_time": 750,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 50,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_050.flac",
+      "start_time": 750,
+      "end_time": 765,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 51,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_051.flac",
+      "start_time": 765,
+      "end_time": 780,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 52,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_052.flac",
+      "start_time": 780,
+      "end_time": 795,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 53,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_053.flac",
+      "start_time": 795,
+      "end_time": 810,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 54,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_054.flac",
+      "start_time": 810,
+      "end_time": 825,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 55,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_055.flac",
+      "start_time": 825,
+      "end_time": 840,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 56,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_056.flac",
+      "start_time": 840,
+      "end_time": 855,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 57,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_057.flac",
+      "start_time": 855,
+      "end_time": 870,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 58,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_058.flac",
+      "start_time": 870,
+      "end_time": 885,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 59,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_059.flac",
+      "start_time": 885,
+      "end_time": 900,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 60,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_060.flac",
+      "start_time": 900,
+      "end_time": 915,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 61,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_061.flac",
+      "start_time": 915,
+      "end_time": 930,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 62,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_062.flac",
+      "start_time": 930,
+      "end_time": 945,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 63,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_063.flac",
+      "start_time": 945,
+      "end_time": 960,
+      "duration": 15.0
+    },
+    {
+      "chunk_number": 64,
+      "file_path": "/mnt/data/ashwin/SpeechRAG/libriSQA/processed_audio/chunk_064.flac",
+      "start_time": 960,
+      "end_time": 975,
+      "duration": 15.0
+    }
+  ]
+}

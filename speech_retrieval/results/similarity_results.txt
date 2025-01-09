@@ -1,0 +1,122 @@
+Similarity Results:
+--------------------------------------------------
+Rank 1:
+  Chunk ID: chunk_077
+  Similarity Score: 0.5243
+  Time Range: 1155.00s - 1170.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_077.pt
+--------------------------------------------------
+Rank 2:
+  Chunk ID: chunk_149
+  Similarity Score: 0.5096
+  Time Range: 2235.00s - 2250.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_149.pt
+--------------------------------------------------
+Rank 3:
+  Chunk ID: chunk_151
+  Similarity Score: 0.5082
+  Time Range: 2265.00s - 2280.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_151.pt
+--------------------------------------------------
+Rank 4:
+  Chunk ID: chunk_062
+  Similarity Score: 0.5014
+  Time Range: 930.00s - 945.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_062.pt
+--------------------------------------------------
+Rank 5:
+  Chunk ID: chunk_133
+  Similarity Score: 0.4972
+  Time Range: 1995.00s - 2010.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_133.pt
+--------------------------------------------------
+Rank 6:
+  Chunk ID: chunk_116
+  Similarity Score: 0.4886
+  Time Range: 1740.00s - 1755.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_116.pt
+--------------------------------------------------
+Rank 7:
+  Chunk ID: chunk_121
+  Similarity Score: 0.4874
+  Time Range: 1815.00s - 1830.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_121.pt
+--------------------------------------------------
+Rank 8:
+  Chunk ID: chunk_143
+  Similarity Score: 0.4852
+  Time Range: 2145.00s - 2160.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_143.pt
+--------------------------------------------------
+Rank 9:
+  Chunk ID: chunk_030
+  Similarity Score: 0.4824
+  Time Range: 450.00s - 465.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_030.pt
+--------------------------------------------------
+Rank 10:
+  Chunk ID: chunk_108
+  Similarity Score: 0.4803
+  Time Range: 1620.00s - 1635.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_108.pt
+--------------------------------------------------
+Rank 11:
+  Chunk ID: chunk_168
+  Similarity Score: 0.4781
+  Time Range: 2520.00s - 2535.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_168.pt
+--------------------------------------------------
+Rank 12:
+  Chunk ID: chunk_134
+  Similarity Score: 0.4765
+  Time Range: 2010.00s - 2025.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_134.pt
+--------------------------------------------------
+Rank 13:
+  Chunk ID: chunk_117
+  Similarity Score: 0.4714
+  Time Range: 1755.00s - 1770.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_117.pt
+--------------------------------------------------
+Rank 14:
+  Chunk ID: chunk_127
+  Similarity Score: 0.4696
+  Time Range: 1905.00s - 1920.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_127.pt
+--------------------------------------------------
+Rank 15:
+  Chunk ID: chunk_005
+  Similarity Score: 0.4625
+  Time Range: 75.00s - 90.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_005.pt
+--------------------------------------------------
+Rank 16:
+  Chunk ID: chunk_125
+  Similarity Score: 0.4598
+  Time Range: 1875.00s - 1890.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_125.pt
+--------------------------------------------------
+Rank 17:
+  Chunk ID: chunk_183
+  Similarity Score: 0.4585
+  Time Range: 2745.00s - 2760.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_183.pt
+--------------------------------------------------
+Rank 18:
+  Chunk ID: chunk_093
+  Similarity Score: 0.4572
+  Time Range: 1395.00s - 1410.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_093.pt
+--------------------------------------------------
+Rank 19:
+  Chunk ID: chunk_147
+  Similarity Score: 0.4566
+  Time Range: 2205.00s - 2220.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_147.pt
+--------------------------------------------------
+Rank 20:
+  Chunk ID: chunk_004
+  Similarity Score: 0.4551
+  Time Range: 60.00s - 75.00s
+  Embedding: /home/snp2453/slt/speech_retrieval/data/embeddings/chunks_embedding/chunk_004.pt
+--------------------------------------------------
